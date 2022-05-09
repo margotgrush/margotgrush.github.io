@@ -1,6 +1,28 @@
-# Margarita Grushanina
+# About
 
-I am a final year PhD candidate at Vienna University of Economics and Business
+I am a final year PhD candidate at Vienna University of Economics and Business, working under the supervision of Sylvia Frühwirth-Schnatter and Alfred Stiassny. I am also a quantitative analyst at Erste Group, responsible for macroeconometric forecasting.
+
+## Research Interests
+- Bayesian nonparametrics
+- Bayesian latent factor models
+- Mixture models
+- Statistical machine learning
+
+## Upcoming Events
+- Poster presentation at [2022 ISBA World Meeting](https://isbawebmaster.github.io/ISBA2022/) (Montreal, June 2022)
+
+## Publications
+- **Bayesian infinite factor models with non-Gaussian factors**.  
+M. Grushanina and S. Frühwirth-Schnatter (2021).   
+In JSM Proceedings, International Society for Bayesian Analysis (ISBA), pp. 396-415.
+
+## Presentations & Posters
+- Contributed talk at [BNP 2022 Networking Event](http://cyprusconferences.org/bnp2022/) (Nicosia, April 2022). Mixture of factor analysers and adaptive telescoping sampler for automatic inference on number of clusters and factors.
+- Seminar at [CEBA](https://ceba-lab.org/eng) (virtual, December 2021). Bayesian infinite factor models with non-Gaussian factors.
+- Contributed talk at [JSM 2021](https://ww2.amstat.org/meetings/jsm/2021/) (virtual, August 2021). Bayesian infinite factor models with non-Gaussian factors.
+- Contributed talk at [2021 ISBA World Meeting](https://events.stat.uconn.edu/ISBA2021/) (virtual, July 2021). Bayesian infinite factor models with non-Gaussian factors.
+
+
 
 ## Welcome to GitHub Pages
 
