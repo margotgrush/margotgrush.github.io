@@ -1,6 +1,6 @@
 # About
 
-I am a final year PhD candidate at Vienna University of Economics and Business, working under the supervision of Sylvia Frühwirth-Schnatter and Alfred Stiassny. I am also a quantitative analyst at Erste Group, responsible for macroeconometric modeling.
+I am a final year PhD candidate at Vienna University of Economics and Business, working under the supervision of Sylvia Frühwirth-Schnatter and Alfred Stiassny. I am also a quantitative analyst at Erste Group, responsible for macroeconometric modeling.  
 My CV can be found here: [CV](CV.pdf)
 
 ## Research Interests
@@ -35,7 +35,7 @@ I love music and for some years have studied classical piano and vocals. I have 
 
 ## Contact me
 
-:envelope: margarita.grushanina@s.wu.ac.at 
+margarita.grushanina@s.wu.ac.at 
 
 
 
