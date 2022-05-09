@@ -32,5 +32,9 @@ In JSM Proceedings, International Society for Bayesian Analysis (ISBA), pp. 396-
 
 I love music and for some years have studied classical piano and vocals. I have also attended several summer schools in jazz at [Guildhall School of Music and Drama](https://www.gsmd.ac.uk) as well as had some amateurish performances at various friendly events.
 
-![Image](Me.png)
+## Contact me
+
+margarita.grushanina@s.wu.ac.at
+http://linkedin.com/in/margotgrushanina
+
 
