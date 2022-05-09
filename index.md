@@ -1,5 +1,3 @@
-
-![me](https://github.com/margotgrush/margotgrush.github.io/blob/3d4b86634faeccce64fc036915b7a31825779c19/assets/Me1.jpg)
 # About
 
 I am a final year PhD candidate at Vienna University of Economics and Business, working under the supervision of Sylvia Frühwirth-Schnatter and Alfred Stiassny. I am also a quantitative analyst at Erste Group, responsible for macroeconometric modeling.  
