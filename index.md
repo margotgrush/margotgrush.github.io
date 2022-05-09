@@ -1,3 +1,7 @@
+# Margarita Grushanina
+
+I am a final year PhD candidate at Vienna University of Economics and Business
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Margeau79/margotgrush.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
