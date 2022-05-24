@@ -1,3 +1,5 @@
+![Me_Paris](https://user-images.githubusercontent.com/89254397/170114042-7f9c4514-8d97-4925-9c5f-c3762a4ea7ef.jpg)
+
 # About
 
 I am a final year PhD candidate at Vienna University of Economics and Business, working under the supervision of Sylvia Frühwirth-Schnatter and Alfred Stiassny. I am also a quantitative analyst at Erste Group, responsible for macroeconometric modeling.  
