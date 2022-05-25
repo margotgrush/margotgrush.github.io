@@ -33,7 +33,7 @@ In JSM Proceedings, International Society for Bayesian Analysis (ISBA), pp. 396-
 
 ## Miscellanea
 
-I love music and have studied classical piano and vocals for some years. I have attended several summer schools in jazz at the [Guildhall School of Music and Drama](https://www.gsmd.ac.uk) as well as had some amateur performances at several friendly events.
+I love music and have studied classical piano and vocals for some years. I have attended several summer schools in jazz at the [Guildhall School of Music and Drama](https://www.gsmd.ac.uk) as well as had some amateur performances at various events.
 
 ## Contact me
 
