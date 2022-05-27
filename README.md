@@ -1,2 +1,1 @@
-Margarita Grushanina
-====================
+
