@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+title: Margarita Grushanina
+description: PhD candidate at Vienna University of Economics and Business, quant at Erste Group
+plugins: - jekyll-sitemap
