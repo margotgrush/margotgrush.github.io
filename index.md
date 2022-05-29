@@ -1,5 +1,4 @@
-Margarita Grushanina
-====================
+
 ![Me_Paris](https://user-images.githubusercontent.com/89254397/170114042-7f9c4514-8d97-4925-9c5f-c3762a4ea7ef.jpg)
 
 # About
