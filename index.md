@@ -14,6 +14,7 @@ My CV can be found here: [CV](CV.pdf)
 
 ## Upcoming Events
 - Poster presentation at [2022 ISBA World Meeting](https://isbawebmaster.github.io/ISBA2022/) (Montreal, June 2022)
+- Talk in young researcher session at [ESOBE 2022](https://sites.google.com/view/esobe2022salzburg/home) (Salzburg, September 2022)
 
 ## Publications
 - **Bayesian infinite factor models with non-Gaussian factors**.  
