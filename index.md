@@ -39,7 +39,7 @@ I love music and have studied classical piano and vocals for some years. I have 
 
 ## Contact me
 
-margarita.grushanina at s.wu.ac.at.        
+margarita.grushanina at s.wu.ac.at        
 margarita.grushanina at gmail.com
 
 
