@@ -10,7 +10,7 @@ My CV can be found here: [CV](CV.pdf)
 - Bayesian nonparametrics
 - Bayesian latent factor models
 - Mixture models
-- Statistical machine learning
+- Bayesian hierarchical modeling
 
 ## Upcoming Events
 - Talk in young researcher session at [ESOBE 2022](https://sites.google.com/view/esobe2022salzburg/home) (Salzburg, September 2022)
