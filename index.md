@@ -14,7 +14,6 @@ My CV can be found here: [CV](CV.pdf)
 
 ## Upcoming Events
 - Invited talk at [CMStatistics 2022](http://www.cmstatistics.org/CMStatistics2022/) (London, December 2022)
-- Talk in young researcher session at [ESOBE 2022](https://sites.google.com/view/esobe2022salzburg/home) (Salzburg, September 2022)
 
 ## Publications
 - **Bayesian infinite factor models with non-Gaussian factors**.  
@@ -22,6 +21,7 @@ M. Grushanina and S. Frühwirth-Schnatter (2021).
 In JSM Proceedings, International Society for Bayesian Analysis (ISBA), pp. 396-415.
 
 ## Presentations & Posters
+- Talk in young researcher session at [ESOBE 2022](https://sites.google.com/view/esobe2022salzburg/home) (Salzburg, September 2022). Dynamic mixture of finite mixtures of factor analysers model with automatic inference on number of clusters and factors.
 - Poster presentation at [2022 ISBA World Meeting](https://isbawebmaster.github.io/ISBA2022/) (Montreal, June 2022). Mixture of factor analysers and adaptive telescoping sampler for automatic inference on number of clusters and factors.
 - Contributed talk at [BNP 2022 Networking Event](http://cyprusconferences.org/bnp2022/) (Nicosia, April 2022). Mixture of factor analysers and adaptive telescoping sampler for automatic inference on number of clusters and factors.
 - Seminar at [CEBA](https://ceba-lab.org/eng) (virtual, December 2021). Bayesian infinite factor models with non-Gaussian factors.
