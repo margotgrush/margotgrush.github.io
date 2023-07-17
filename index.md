@@ -13,7 +13,7 @@ My CV can be found here: [CV](CV.pdf)
 - Bayesian hierarchical modeling
 
 ## Upcoming Events
-
+- Talk at [ESOBE 2023](https://www.gla.ac.uk/schools/business/events/headline_929062_en.html) (Glasgow, September 2023)
 
 ## Publications
 - **Bayesian infinite factor models with non-Gaussian factors**.  
