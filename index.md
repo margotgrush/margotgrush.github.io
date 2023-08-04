@@ -37,7 +37,7 @@ M. Grushanina and S. Frühwirth-Schnatter (2023).
 - 2014-present: Economist/quantitative analyst at [Research Department](https://www.erstegroup.com/en/research) of [Erste Group](https://www.erstegroup.com/en/home) (Vienna, Austria).
 - 2007-2011: Data analyst at Strategic Risk Management Department of [Erste Group](https://www.erstegroup.com/en/home) (Vienna, Austria).
 - 2006: Researcher at [UNIDO](https://www.unido.org), Strategic Research and Economics Branch.
-- 2004 - 2005: Assistant Lecturer, Saint Petersburg State University, Department of Economics (Saint Petersburg, Russia).
+- 2004 - 2005: Lecturer, Saint Petersburg State University, Department of Economics (Saint Petersburg, Russia).
 
 ## Miscellanea
 
