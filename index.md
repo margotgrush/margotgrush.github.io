@@ -3,7 +3,7 @@
 
 # About
 
-I am a final year PhD candidate at Vienna University of Economics and Business, working under the supervision of Sylvia Frühwirth-Schnatter and Alfred Stiassny. I am also a quantitative analyst at Erste Group, responsible for macroeconometric modeling.  
+I have just completed my PhD at the Vienna University of Economics and Business under the supervision of Sylvia Frühwirth-Schnatter and Alfred Stiassny. My dissertation topic was "Bayesian methods for unsupervised data analysis in application to data sets exhibiting non-Gaussianity". I am also a quantitative analyst at Erste Group, responsible for macroeconometric modeling.  
 My CV can be found here: [CV](CV.pdf)
 
 ## Research Interests
@@ -13,7 +13,7 @@ My CV can be found here: [CV](CV.pdf)
 - Bayesian hierarchical modeling
 
 ## Upcoming Events
-- Talk at [ESOBE 2023](https://www.gla.ac.uk/schools/business/events/headline_929062_en.html) (Glasgow, September 2023)
+- Invited talk at [IDWSDS 2023]([https://www.gla.ac.uk/schools/business/events/headline_929062_en.html](https://www.idwsds.org)) (virtual, October 2023)
 
 ## Publications
 - **Bayesian infinite factor models with non-Gaussian factors**.  
@@ -25,6 +25,7 @@ M. Grushanina and S. Frühwirth-Schnatter (2023).
 [arXiv preprint](http://arxiv.org/abs/2307.07045)
 
 ## Presentations & Posters
+- Contributed talk at [ESOBE 2023](https://www.gla.ac.uk/schools/business/events/headline_929062_en.html) (Glasgow, September 2023). Dynamic mixture of finite mixtures of factor analysers model with automatic inference on number of clusters and factors.
 - Invited talk at [CMStatistics 2022](http://www.cmstatistics.org/CMStatistics2022/) (London, December 2022). Dynamic mixture of finite mixtures of factor analysers model with automatic inference on number of clusters and factors.
 - Talk in young researcher session at [ESOBE 2022](https://sites.google.com/view/esobe2022salzburg/home) (Salzburg, September 2022). Dynamic mixture of finite mixtures of factor analysers model with automatic inference on number of clusters and factors.
 - Poster presentation at [2022 ISBA World Meeting](https://isbawebmaster.github.io/ISBA2022/) (Montreal, June 2022). Mixture of factor analysers and adaptive telescoping sampler for automatic inference on number of clusters and factors.
