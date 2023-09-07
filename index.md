@@ -4,7 +4,7 @@
 # About
 
 I have just completed my PhD at the Vienna University of Economics and Business under the supervision of Sylvia Frühwirth-Schnatter and Alfred Stiassny. My dissertation topic is "Bayesian methods for unsupervised data analysis in application to data sets exhibiting non-Gaussianity". I am also a quantitative analyst at Erste Group, responsible for macroeconometric modeling. 
-My CV can be found here: [CV](CV.pdf)
+ My CV can be found here: [CV](CV.pdf)
 
 ## Research Interests
 - Bayesian nonparametrics
@@ -13,7 +13,7 @@ My CV can be found here: [CV](CV.pdf)
 - Bayesian hierarchical modeling
 
 ## Upcoming Events
-- Invited talk at [IDWSDS 2023]([https://www.gla.ac.uk/schools/business/events/headline_929062_en.html](https://www.idwsds.org)) (virtual, October 2023)
+- Invited talk at [IDWSDS 2023](https://www.idwsds.org) (virtual, October 2023)
 
 ## Publications
 - **Bayesian infinite factor models with non-Gaussian factors**.  
