@@ -3,7 +3,8 @@
 
 # About
 
-I have just completed my PhD at the Vienna University of Economics and Business under the supervision of Sylvia Frühwirth-Schnatter and Alfred Stiassny. My dissertation topic is "Bayesian methods for unsupervised data analysis in application to data sets exhibiting non-Gaussianity". I am also a quantitative analyst at Erste Group, responsible for macroeconometric modeling. My CV can be found here: [CV](CV.pdf)
+I have just completed my PhD at the Vienna University of Economics and Business under the supervision of Sylvia Frühwirth-Schnatter and Alfred Stiassny. My dissertation topic is "Bayesian methods for unsupervised data analysis in application to data sets exhibiting non-Gaussianity". I am also a quantitative analyst at Erste Group, responsible for macroeconometric modeling. 
+My CV can be found here: [CV](CV.pdf)
 
 ## Research Interests
 - Bayesian nonparametrics
