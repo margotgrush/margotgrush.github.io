@@ -16,13 +16,17 @@ My CV can be found here: [CV](CV.pdf)
 - Invited talk at [IDWSDS 2023](https://www.idwsds.org) (virtual, October 2023)
 
 ## Publications
-- **Bayesian infinite factor models with non-Gaussian factors**.  
-M. Grushanina and S. Frühwirth-Schnatter (2021).   
-In *JSM Proceedings*, International Society for Bayesian Analysis (ISBA) Section. Alexandria, VA: American Statistical Association. 396-415.
+- **A Review of Bayesian Methods for Infinite Factorisations**.  
+M. Grushanina (2023).   
+[arXiv preprint](http://arxiv.org/abs/2309.12990)
 
 - **Dynamic Mixture of Finite Mixtures of Factor Analysers with Automatic Inference on the Number of Clusters and Factors**.  
 M. Grushanina and S. Frühwirth-Schnatter (2023).   
 [arXiv preprint](http://arxiv.org/abs/2307.07045)
+
+- **Bayesian infinite factor models with non-Gaussian factors**.  
+M. Grushanina and S. Frühwirth-Schnatter (2021).   
+In *JSM Proceedings*, International Society for Bayesian Analysis (ISBA) Section. Alexandria, VA: American Statistical Association. 396-415.
 
 ## Presentations & Posters
 - Contributed talk at [ESOBE 2023](https://www.gla.ac.uk/schools/business/events/headline_929062_en.html) (Glasgow, September 2023). Dynamic mixture of finite mixtures of factor analysers model with automatic inference on number of clusters and factors.
