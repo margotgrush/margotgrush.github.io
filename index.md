@@ -29,6 +29,8 @@ M. Grushanina and S. Frühwirth-Schnatter (2021).
 In *JSM Proceedings*, International Society for Bayesian Analysis (ISBA) Section. Alexandria, VA: American Statistical Association. 396-415.
 
 ## Presentations & Posters
+- Contributed talk at [EWMES 2023](https://www.econometricsociety.org/regional-activities/schedule/2023/12/17/2023-EWMES-Manchester-United-Kingdom#:~:text=We%20are%20pleased%20to%20announce,%2C%20in%20Manchester%2C%20United%20Kingdom.) (Manchester, December 2023). Dynamic mixture of finite mixtures of factor analysers model with automatic inference on number of clusters and factors.
+- Invited talk at [IDWSDS 2023](https://www.idwsds.org) (virtual, October 2023)
 - Contributed talk at [ESOBE 2023](https://www.gla.ac.uk/schools/business/events/headline_929062_en.html) (Glasgow, September 2023). Dynamic mixture of finite mixtures of factor analysers model with automatic inference on number of clusters and factors.
 - Invited talk at [CMStatistics 2022](http://www.cmstatistics.org/CMStatistics2022/) (London, December 2022). Dynamic mixture of finite mixtures of factor analysers model with automatic inference on number of clusters and factors.
 - Talk in young researcher session at [ESOBE 2022](https://sites.google.com/view/esobe2022salzburg/home) (Salzburg, September 2022). Dynamic mixture of finite mixtures of factor analysers model with automatic inference on number of clusters and factors.
