@@ -13,7 +13,6 @@ My CV can be found here: [CV](CV.pdf)
 - Bayesian hierarchical modeling
 
 ## Upcoming Events
-- Invited talk at [IDWSDS 2023](https://www.idwsds.org) (virtual, October 2023)
 
 ## Publications
 - **A Review of Bayesian Methods for Infinite Factorisations**.  
