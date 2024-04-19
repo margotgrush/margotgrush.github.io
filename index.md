@@ -7,12 +7,6 @@ Since April 2024, I am a Research Associate for Bayesian Statistics and Causal I
 
 In 2023, I obtained my PhD at the Vienna University of Economics and Business under the supervision of [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/en/statmath/faculty-staff/faculty/sfruehwirthschnatter) and Alfred Stiassny. My dissertation title is "Bayesian methods for unsupervised data analysis in application to data sets exhibiting non-Gaussianity". Prior to that, I worked for several years at [Erste Group](https://www.erstegroup.com/en/home) as a Quantitative Analyst. My detailed CV can be found here: [CV](CV.pdf)
 
-
-About me
-Hello! I am Francesca Panero, Assistant Professor at the Department of Statistics of the London School of Economics. I am also affiliate of the Data Science Institute (LSE) and the Grantham Research Institute on Climate Change and the Environment (LSE).
-
-In 2022 I obtained a PhD in Statistics from the University of Oxford. Before the PhD, I spent quite some time (BSc and MSc) at the Department of Mathematics of the University of Turin and at Collegio Carlo Alberto.
-
 ## Research Interests
 - Bayesian nonparametrics
 - Bayesian latent factor models
