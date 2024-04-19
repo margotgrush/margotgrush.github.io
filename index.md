@@ -14,7 +14,7 @@ In 2023, I obtained my PhD at the Vienna University of Economics and Business un
 - Bayesian hierarchical modeling
 
 ## Upcoming Events
-- Poster presentation at [2024 ISBA World Meeting](https://www.unive.it/web/en/2208/home)
+- Poster presentation at [2024 ISBA World Meeting](https://www.unive.it/web/en/2208/home) (Venice, July 2024)
 
 ## Publications
 - **A Review of Bayesian Methods for Infinite Factorisations**.  
