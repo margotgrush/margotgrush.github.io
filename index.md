@@ -47,7 +47,7 @@ In *JSM Proceedings*, International Society for Bayesian Analysis (ISBA) Section
 - Contributed talk at [2021 ISBA World Meeting](https://events.stat.uconn.edu/ISBA2021/) (virtual, July 2021). Bayesian infinite factor models with non-Gaussian factors.
 
 ## Selective Work Experience
-- 2014-present: Research Associate for bayesian Statistics and Causal Inference, [School of Public Health, Imperial College London](https://www.imperial.ac.uk/school-public-health) (London, UK)
+- 2014-present: Research Associate for Bayesian Statistics and Causal Inference, [School of Public Health, Imperial College London](https://www.imperial.ac.uk/school-public-health) (London, UK)
 - 2014-2024: Economist/quantitative analyst at [Research Department](https://www.erstegroup.com/en/research) of [Erste Group](https://www.erstegroup.com/en/home) (Vienna, Austria).
 - 2007-2011: Data analyst at Strategic Risk Management Department of [Erste Group](https://www.erstegroup.com/en/home) (Vienna, Austria).
 - 2006: Researcher at [UNIDO](https://www.unido.org), Strategic Research and Economics Branch.
