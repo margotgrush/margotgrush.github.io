@@ -5,7 +5,7 @@
 
 Since April 2024, I am a Research Associate for Bayesian Statistics and Causal Inference at [School of Public Health, Imperial College London](https://www.imperial.ac.uk/school-public-health), working with [Dr. Verena Zuber](https://www.imperial.ac.uk/people/v.zuber).
 
-In 2023, I obtained my PhD at the Vienna University of Economics and Business under the supervision of [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/en/statmath/faculty-staff/faculty/sfruehwirthschnatter) and [Alfred Stiassny]. My dissertation title is "Bayesian methods for unsupervised data analysis in application to data sets exhibiting non-Gaussianity". Prior to that, I worked for several years at [Erste Group](https://www.erstegroup.com/en/home) as a Quantitative Analyst. My detailed CV can be found here: [CV](CV.pdf)
+In 2023, I obtained my PhD at the Vienna University of Economics and Business under the supervision of [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/en/statmath/faculty-staff/faculty/sfruehwirthschnatter) and Alfred Stiassny. My dissertation title is "Bayesian methods for unsupervised data analysis in application to data sets exhibiting non-Gaussianity". Prior to that, I worked for several years at [Erste Group](https://www.erstegroup.com/en/home) as a Quantitative Analyst. My detailed CV can be found here: [CV](CV.pdf)
 
 
 About me
