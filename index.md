@@ -1,10 +1,17 @@
 
 ![Me_Paris](https://user-images.githubusercontent.com/89254397/170114042-7f9c4514-8d97-4925-9c5f-c3762a4ea7ef.jpg)
 
-# About
+# About me
 
-I have just completed my PhD at the Vienna University of Economics and Business under the supervision of Sylvia Frühwirth-Schnatter and Alfred Stiassny. My dissertation topic is "Bayesian methods for unsupervised data analysis in application to data sets exhibiting non-Gaussianity". I am also a quantitative analyst at Erste Group, responsible for macroeconometric modeling.
-My CV can be found here: [CV](CV.pdf)
+Since April 2024, I am a Research Associate for Bayesian Statistics and Causal Inference at [School of Public Health, Imperial College London](https://www.imperial.ac.uk/school-public-health), working with [Dr. Verena Zuber](https://www.imperial.ac.uk/people/v.zuber).
+
+In 2023, I obtained my PhD at the Vienna University of Economics and Business under the supervision of [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/en/statmath/faculty-staff/faculty/sfruehwirthschnatter) and [Alfred Stiassny]. My dissertation title is "Bayesian methods for unsupervised data analysis in application to data sets exhibiting non-Gaussianity". Prior to that, I worked for several years at [Erste Group](https://www.erstegroup.com/en/home) as a Quantitative Analyst. My detailed CV can be found here: [CV](CV.pdf)
+
+
+About me
+Hello! I am Francesca Panero, Assistant Professor at the Department of Statistics of the London School of Economics. I am also affiliate of the Data Science Institute (LSE) and the Grantham Research Institute on Climate Change and the Environment (LSE).
+
+In 2022 I obtained a PhD in Statistics from the University of Oxford. Before the PhD, I spent quite some time (BSc and MSc) at the Department of Mathematics of the University of Turin and at Collegio Carlo Alberto.
 
 ## Research Interests
 - Bayesian nonparametrics
@@ -40,7 +47,8 @@ In *JSM Proceedings*, International Society for Bayesian Analysis (ISBA) Section
 - Contributed talk at [2021 ISBA World Meeting](https://events.stat.uconn.edu/ISBA2021/) (virtual, July 2021). Bayesian infinite factor models with non-Gaussian factors.
 
 ## Selective Work Experience
-- 2014-present: Economist/quantitative analyst at [Research Department](https://www.erstegroup.com/en/research) of [Erste Group](https://www.erstegroup.com/en/home) (Vienna, Austria).
+- 2014-present: Research Associate for bayesian Statistics and Causal Inference, [School of Public Health, Imperial College London](https://www.imperial.ac.uk/school-public-health) (London, UK)
+- 2014-2024: Economist/quantitative analyst at [Research Department](https://www.erstegroup.com/en/research) of [Erste Group](https://www.erstegroup.com/en/home) (Vienna, Austria).
 - 2007-2011: Data analyst at Strategic Risk Management Department of [Erste Group](https://www.erstegroup.com/en/home) (Vienna, Austria).
 - 2006: Researcher at [UNIDO](https://www.unido.org), Strategic Research and Economics Branch.
 - 2004 - 2005: Lecturer, Saint Petersburg State University, Department of Economics (Saint Petersburg, Russia).
@@ -51,7 +59,7 @@ I love music and have studied classical piano and vocals for some years. I have 
 
 ## Contact me
 
-margarita.grushanina at s.wu.ac.at        
+m.grushanina at imperial.ac.uk        
 margarita.grushanina at gmail.com
 
 
