@@ -14,7 +14,7 @@ In 2023, I obtained my PhD at the Vienna University of Economics and Business un
 - Bayesian hierarchical modeling
 
 ## Upcoming Events
-- Talk at [CFE-CMStatistics 2024](https://www.cmstatistics.org/CFECMStatistics2024/)(London, December 2024)
+- Talk at [CFE-CMStatistics 2024](https://www.cmstatistics.org/CFECMStatistics2024/) (London, December 2024)
 
 ## Publications
 - **A Review of Bayesian Methods for Infinite Factorisations**.  
