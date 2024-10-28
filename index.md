@@ -32,7 +32,7 @@ M. Grushanina and S. Frühwirth-Schnatter (2021).
 In *JSM Proceedings*, International Society for Bayesian Analysis (ISBA) Section. Alexandria, VA: American Statistical Association. 396-415.
 
 ## Discussions
-- Discussion on **Sparse Bayesian Factor Analysis When the Number of Factors is Unknown** by S. Frühwirth-Schnatter, D. Hosszejni, and H. F. Lopes.  
+- Discussion on **Sparse Bayesian Factor Analysis When the Number of Factors Is Unknown** by S. Frühwirth-Schnatter, D. Hosszejni, and H. F. Lopes.  
 M. Grushanina (2024+). Bayesian Analysis (Forthcoming)
 
 # Presentations & Posters
