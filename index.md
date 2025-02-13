@@ -14,7 +14,6 @@ In 2023, I obtained my PhD at the Vienna University of Economics and Business un
 - Bayesian hierarchical modeling
 
 # Upcoming Events
-- Talk at [CFE-CMStatistics 2024](https://www.cmstatistics.org/CFECMStatistics2024/) (London, December 2024)
 
 # Publications
 ## Papers and Preprints
@@ -36,9 +35,11 @@ In *JSM Proceedings*, International Society for Bayesian Analysis (ISBA) Section
 M. Grushanina (2024+). Bayesian Analysis (Forthcoming)
 
 # Presentations & Posters
+- Seminar at [EUSP](https://eusp.org/en) (virtual, January 2024). Dynamic mixture of finite mixtures of factor analysers.
+- Invited talk at [CFE-CMStatistics 2024](https://www.cmstatistics.org/CFECMStatistics2024/) (London, December 2024). Dynamic mixture of finite mixtures of factor analysers.
 - Poster presentation at [2024 ISBA World Meeting](https://www.unive.it/web/en/2208/home) (Venice, July 2024). Dynamic mixture of finite mixtures of factor analysers model with automatic inference on number of clusters and factors.
 - Contributed talk at [EWMES 2023](https://www.econometricsociety.org/regional-activities/schedule/2023/12/17/2023-EWMES-Manchester-United-Kingdom#:~:text=We%20are%20pleased%20to%20announce,%2C%20in%20Manchester%2C%20United%20Kingdom.) (Manchester, December 2023). Dynamic mixture of finite mixtures of factor analysers model with automatic inference on number of clusters and factors.
-- Invited talk at [IDWSDS 2023](https://www.idwsds.org) (virtual, October 2023)
+- Invited talk at [IDWSDS 2023](https://www.idwsds.org) (virtual, October 2023). Dynamic mixture of finite mixtures of factor analysers model with automatic inference on number of clusters and factors.
 - Contributed talk at [ESOBE 2023](https://www.gla.ac.uk/schools/business/events/headline_929062_en.html) (Glasgow, September 2023). Dynamic mixture of finite mixtures of factor analysers model with automatic inference on number of clusters and factors.
 - Invited talk at [CMStatistics 2022](http://www.cmstatistics.org/CMStatistics2022/) (London, December 2022). Dynamic mixture of finite mixtures of factor analysers model with automatic inference on number of clusters and factors.
 - Talk in young researcher session at [ESOBE 2022](https://sites.google.com/view/esobe2022salzburg/home) (Salzburg, September 2022). Dynamic mixture of finite mixtures of factor analysers model with automatic inference on number of clusters and factors.
