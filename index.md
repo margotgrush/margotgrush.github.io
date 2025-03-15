@@ -31,8 +31,8 @@ M. Grushanina and S. Frühwirth-Schnatter (2021).
 In *JSM Proceedings*, International Society for Bayesian Analysis (ISBA) Section. Alexandria, VA: American Statistical Association. 396-415.
 
 ## Discussions
-- Discussion on **Sparse Bayesian Factor Analysis When the Number of Factors Is Unknown** by S. Frühwirth-Schnatter, D. Hosszejni, and H. F. Lopes.  
-M. Grushanina (2024+). Bayesian Analysis (Forthcoming)
+- Discussion on [**Sparse Bayesian Factor Analysis When the Number of Factors Is Unknown**](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Sparse-Bayesian-Factor-Analysis-When-the-Number-of-Factors-Is/10.1214/24-BA1423.full) by S. Frühwirth-Schnatter, D. Hosszejni, and H. F. Lopes.  
+M. Grushanina (2024+). Bayesian Analysis, 20(1), pp. 316-318
 
 # Presentations & Posters
 - Seminar at [EUSP](https://eusp.org/en) (virtual, January 2024). Dynamic mixture of finite mixtures of factor analysers.
