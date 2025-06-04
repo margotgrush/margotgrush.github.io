@@ -35,7 +35,7 @@ In *JSM Proceedings*, International Society for Bayesian Analysis (ISBA) Section
 M. Grushanina (2025). Bayesian Analysis, 20(1), pp. 316-318
 
 # Presentations & Posters
-- Seminar at [EUSP](https://eusp.org/en) (virtual, January 2024). Dynamic mixture of finite mixtures of factor analysers.
+- Seminar at [EUSP](https://eusp.org/en) (virtual, January 2025). Dynamic mixture of finite mixtures of factor analysers.
 - Invited talk at [CFE-CMStatistics 2024](https://www.cmstatistics.org/CFECMStatistics2024/) (London, December 2024). Dynamic mixture of finite mixtures of factor analysers.
 - Poster presentation at [2024 ISBA World Meeting](https://www.unive.it/web/en/2208/home) (Venice, July 2024). Dynamic mixture of finite mixtures of factor analysers model with automatic inference on number of clusters and factors.
 - Contributed talk at [EWMES 2023](https://www.econometricsociety.org/regional-activities/schedule/2023/12/17/2023-EWMES-Manchester-United-Kingdom#:~:text=We%20are%20pleased%20to%20announce,%2C%20in%20Manchester%2C%20United%20Kingdom.) (Manchester, December 2023). Dynamic mixture of finite mixtures of factor analysers model with automatic inference on number of clusters and factors.
