@@ -17,12 +17,15 @@ In 2023, I obtained my PhD at the Vienna University of Economics and Business un
 
 # Publications
 ## Papers and Preprints
+- **Dynamic Mixture of Finite Mixtures of Factor Analysers**.  
+M. Grushanina and S. Frühwirth-Schnatter (2025+). Bayesian Analysis (forthcoming)  
+
 - **A Review of Bayesian Methods for Infinite Factorisations**.  
 M. Grushanina (2023).   
 [arXiv preprint](http://arxiv.org/abs/2309.12990)
 
 - **Dynamic Mixture of Finite Mixtures of Factor Analysers with Automatic Inference on the Number of Clusters and Factors**.  
-M. Grushanina and S. Frühwirth-Schnatter (2023). (In revision)  
+M. Grushanina and S. Frühwirth-Schnatter (2023).  
 [arXiv preprint](http://arxiv.org/abs/2307.07045)
 
 ## Conference Proceedings
