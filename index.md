@@ -17,8 +17,9 @@ In 2023, I obtained my PhD at the Vienna University of Economics and Business un
 
 # Publications
 ## Papers and Preprints
-- [**Dynamic Mixture of Finite Mixtures of Factor Analysers**.](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Dynamic-Mixture-of-Finite-Mixtures-of-Factor-Analysers/10.1214/25-BA1543.full)  
-M. Grushanina and S. Frühwirth-Schnatter (2025). Bayesian Analysis (advance publication)  
+- **Dynamic Mixture of Finite Mixtures of Factor Analysers**.
+M. Grushanina and S. Frühwirth-Schnatter (2025). Bayesian Analysis (advance publication).     
+[paper](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Dynamic-Mixture-of-Finite-Mixtures-of-Factor-Analysers/10.1214/25-BA1543.full)
 
 - **A Review of Bayesian Methods for Infinite Factorisations**.  
 M. Grushanina (2023).   
@@ -26,12 +27,14 @@ M. Grushanina (2023).
 
 ## Conference Proceedings
 - **Bayesian infinite factor models with non-Gaussian factors**.  
-M. Grushanina and S. Frühwirth-Schnatter (2021).   
-In *JSM Proceedings*, International Society for Bayesian Analysis (ISBA) Section. Alexandria, VA: American Statistical Association. 396-415.
+M. Grushanina and S. Frühwirth-Schnatter (2021).        
+In *JSM Proceedings*, International Society for Bayesian Analysis (ISBA) Section. Alexandria, VA: American Statistical Association. 396-415.     
+[conference paper](https://ww2.amstat.org/meetings/proceedings/2021/data/assets/pdf/1913713.pdf)
 
 ## Discussions
-- Discussion on [**Sparse Bayesian Factor Analysis When the Number of Factors Is Unknown**](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Sparse-Bayesian-Factor-Analysis-When-the-Number-of-Factors-Is/10.1214/24-BA1423.full) by S. Frühwirth-Schnatter, D. Hosszejni, and H. F. Lopes.  
-M. Grushanina (2025). Bayesian Analysis, 20(1), pp. 316-318
+- Discussion on **Sparse Bayesian Factor Analysis When the Number of Factors Is Unknown** by S. Frühwirth-Schnatter, D. Hosszejni, and H. F. Lopes.  
+M. Grushanina (2025). Bayesian Analysis, 20(1), pp. 316-318.     
+[discussion](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Sparse-Bayesian-Factor-Analysis-When-the-Number-of-Factors-Is/10.1214/24-BA1423.full)
 
 # Presentations & Posters
 - Seminar at [EUSP](https://eusp.org/en) (virtual, January 2025). Dynamic mixture of finite mixtures of factor analysers.
@@ -57,7 +60,7 @@ M. Grushanina (2025). Bayesian Analysis, 20(1), pp. 316-318
 
 # Miscellanea
 
-I love music and have studied classical piano and vocals for some years. I have also attended several summer schools in jazz at the [Guildhall School of Music and Drama](https://www.gsmd.ac.uk) as well as had some amateur performances at various events.
+I love music and have studied classical piano and vocals for some years. I have also attended several summer courses in jazz and creative music/songwriting at [Guildhall School of Music and Drama](https://www.gsmd.ac.uk) as well as had some amateur performances at various events.
 
 # Contact me
 
