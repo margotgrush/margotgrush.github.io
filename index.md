@@ -3,15 +3,18 @@
 
 # About me
 
-Since April 2024, I am a Research Associate for Bayesian Statistics and Causal Inference at [School of Public Health, Imperial College London](https://www.imperial.ac.uk/school-public-health), working with [Verena Zuber](https://www.imperial.ac.uk/people/v.zuber) and [Leonardo Bottolo](https://github.com/lb664).
+Since April 2024, I am a Research Associate for Bayesian Statistics and Causal Inference at [School of Public Health, Imperial College London](https://www.imperial.ac.uk/school-public-health), working with [Verena Zuber](https://www.imperial.ac.uk/people/v.zuber) and [Leonardo Bottolo](https://github.com/lb664). My main research focus lies in discovering patterns and causal relationship in single-cell genomic and genetic variation data with the tools from Bayesian statistics, such as model-based clustering and latent factor analysis.
 
-In 2023, I obtained my PhD at the Vienna University of Economics and Business under the supervision of [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/en/statmath/faculty-staff/faculty/sfruehwirthschnatter) and [Alfred Stiassny](https://research.wu.ac.at/en/persons/alfred-stiassny-4). My dissertation title is "Bayesian methods for unsupervised data analysis in application to data sets exhibiting non-Gaussianity". Prior to that, I worked for several years at [Erste Group](https://www.erstegroup.com/en/home) as a Quantitative Analyst. My detailed CV can be found here: [CV](CV.pdf)
+In 2023, I obtained my PhD at Vienna University of Economics and Business under the supervision of [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/en/statmath/faculty-staff/faculty/sfruehwirthschnatter) and [Alfred Stiassny](https://research.wu.ac.at/en/persons/alfred-stiassny-4). My dissertation titled "Bayesian methods for unsupervised data analysis in application to data sets exhibiting non-Gaussianity" was devoted to discovering structure in complex data with no or minimal initial assumptions.
+
+Prior to that, I worked for several years at [Erste Group](https://www.erstegroup.com/en/home) as a Quantitative Analyst. My detailed CV can be found here: [CV](CV.pdf)
 
 # Research Interests
 - Bayesian nonparametrics
 - Bayesian latent factor models
-- Mixture models
+- Finite and infinite mixture models
 - Bayesian hierarchical modeling
+- Variational inference
 
 # Upcoming Events
 
