@@ -3,7 +3,7 @@
 
 # About me
 
-Since April 2024, I am a Research Associate for Bayesian Statistics and Causal Inference at [School of Public Health, Imperial College London](https://www.imperial.ac.uk/school-public-health), working with [Verena Zuber](https://www.imperial.ac.uk/people/v.zuber) and [Leonardo Bottolo](https://github.com/lb664). My main research focus lies in discovering patterns and causal relationship in single-cell genomic and genetic variation data with the tools from Bayesian statistics, such as model-based clustering and latent factor analysis.
+Since April 2024, I am a Research Associate for Bayesian Statistics and Causal Inference at [School of Public Health, Imperial College London](https://www.imperial.ac.uk/school-public-health), working with [Verena Zuber](https://www.imperial.ac.uk/people/v.zuber) and [Leonardo Bottolo](https://github.com/lb664). My main research focus lies in discovering patterns and causal relationship in single-cell genomic and genetic variation data with tools from Bayesian statistics, such as model-based clustering and latent factor analysis.
 
 In 2023, I obtained my PhD at Vienna University of Economics and Business under the supervision of [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/en/statmath/faculty-staff/faculty/sfruehwirthschnatter) and [Alfred Stiassny](https://research.wu.ac.at/en/persons/alfred-stiassny-4). My dissertation titled "Bayesian methods for unsupervised data analysis in application to data sets exhibiting non-Gaussianity" was devoted to discovering structure in complex data with no or minimal initial assumptions.
 
