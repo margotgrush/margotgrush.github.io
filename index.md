@@ -5,15 +5,14 @@
 
 Since April 2024, I am a Research Associate for Bayesian Statistics and Causal Inference at [School of Public Health, Imperial College London](https://www.imperial.ac.uk/school-public-health), working with [Verena Zuber](https://www.imperial.ac.uk/people/v.zuber) and [Leonardo Bottolo](https://github.com/lb664). My main research focus lies in discovering patterns and causal relationship in single-cell genomic and genetic variation data with tools from Bayesian statistics, such as model-based clustering and latent factor analysis.
 
-In 2023, I obtained my PhD at Vienna University of Economics and Business under the supervision of [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/en/statmath/faculty-staff/faculty/sfruehwirthschnatter) and [Alfred Stiassny](https://research.wu.ac.at/en/persons/alfred-stiassny-4). My dissertation titled "Bayesian methods for unsupervised data analysis in application to data sets exhibiting non-Gaussianity" was devoted to discovering structure in complex data with no or minimal initial assumptions.
+In 2023, I obtained my PhD at Vienna University of Economics and Business under the supervision of [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/en/statmath/faculty-staff/faculty/sfruehwirthschnatter) and [Alfred Stiassny](https://research.wu.ac.at/en/persons/alfred-stiassny-4). My dissertation titled "Bayesian methods for unsupervised data analysis in application to data sets exhibiting non-Gaussianity" was devoted to discovering structure in complex data with no or minimal initial assumptions. It comprised of three parts which included a comprehensive review of infinite factorisiation models, a model which relaxed the assumtion of Gaussian factors habitual in Bayesian latent factor models, and a flexible mixture of factor analysers models which provided a fully automatic detection of both clusters in the data set and latent dimension in each cluster. The latter paper, which has recently been published in [Bayesian Analysis](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Dynamic-Mixture-of-Finite-Mixtures-of-Factor-Analysers/10.1214/25-BA1543.full), employs the connection between infinite nonparametric priors and their finite counterparts to provide a fully automatic inference on data structure without resorting to infinite models.
 
-Prior to that, I worked for several years at [Erste Group](https://www.erstegroup.com/en/home) as a Quantitative Analyst. My detailed CV can be found here: [CV](CV.pdf)
+Prior to that, I worked for several years at [Erste Group](https://www.erstegroup.com/en/home) as a Quantitative Analyst in charge of time series modeling and macroecnomic forecasting. My detailed CV can be found here: [CV](CV.pdf)
 
 # Research Interests
-- Bayesian nonparametrics
+- Bayesian nonparametrics 
 - Bayesian latent factor models
-- Finite and infinite mixture models
-- Bayesian hierarchical modeling
+- Mixture models based clustering (Dirichlet process mixtures, Pitman-Yor process mixtures, mixture of finite mixtures models)
 - Variational inference
 
 # Upcoming Events
@@ -63,7 +62,7 @@ M. Grushanina (2025). Bayesian Analysis, 20(1), pp. 316-318.
 
 # Miscellanea
 
-I love music and have studied classical piano and vocals for some years. I have also attended several summer courses in jazz and creative music/songwriting at [Guildhall School of Music and Drama](https://www.gsmd.ac.uk) as well as had some amateur performances at various events.
+I love music and have studied classical piano and vocals for some years. I have also participated in several summer courses in jazz and creative music/songwriting at [Guildhall School of Music and Drama](https://www.gsmd.ac.uk) as well as had some amateur performances at various events.
 
 # Contact me
 
