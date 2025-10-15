@@ -13,6 +13,7 @@ Prior to that, I worked for several years at [Erste Group](https://www.erstegrou
 - Bayesian nonparametrics 
 - Bayesian latent factor models
 - Mixture models based clustering (Dirichlet process mixtures, Pitman-Yor process mixtures, mixture of finite mixtures models)
+- Time series models and forecasting
 - Variational inference
 
 # Upcoming Events
