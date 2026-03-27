@@ -18,7 +18,7 @@ Prior to that, I worked for several years at [Erste Group](https://www.erstegrou
 
 # Upcoming Events
 - Presentation at [Research Computing Showcase Day 2026](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/service-offering/research-engagement/rcs-events/research-computing-showcase-day-2026/)
-- Poster at [CSML Workshop 2026](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/service-offering/research-engagement/rcs-events/research-computing-showcase-day-2026/)
+- Poster at [CSML Workshop 2026]([https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/service-offering/research-engagement/rcs-events/research-computing-showcase-day-2026/](https://fsml-ucl.github.io/CSMLworkshop2026/))
 
 # Publications
 ## Papers and Preprints
