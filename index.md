@@ -3,11 +3,13 @@
 
 # About me
 
-I am a Research Associate for Bayesian Statistics and Causal Inference at [School of Public Health, Imperial College London](https://www.imperial.ac.uk/school-public-health), working with [Verena Zuber](https://www.imperial.ac.uk/people/v.zuber) and [Leonardo Bottolo](https://www.medschl.cam.ac.uk/leonardo-bottolo). My research focuses on developing Bayesian methods for high-dimensional molecular data, including gene expression and other omics, with an emphasis on latent factor models, clustering, and shrinkage priors to uncover structured variation in complex datasets.
+I am a Research Associate for Bayesian Statistics and Causal Inference at the [School of Public Health, Imperial College London](https://www.imperial.ac.uk/school-public-health), working with [Verena Zuber](https://www.imperial.ac.uk/people/v.zuber) and [Leonardo Bottolo](https://www.medschl.cam.ac.uk/leonardo-bottolo). My research focuses on developing Bayesian methods for high-dimensional molecular data, including gene expression and other omics data. I am particularly interested in latent factor models, structured sparsity, clustering and scalable inference, with the aim of uncovering meaningful structure in complex biological datasets.
 
 In 2023, I obtained my PhD at Vienna University of Economics and Business under the supervision of [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/en/statmath/faculty-staff/faculty/sfruehwirthschnatter) and [Alfred Stiassny](https://research.wu.ac.at/en/persons/alfred-stiassny-4). My dissertation, “Bayesian methods for unsupervised data analysis in application to data sets exhibiting non-Gaussianity,” focused on uncovering structure in complex data with minimal assumptions. It includes a review of infinite factorisation models, a latent factor model relaxing the Gaussian assumption, and a flexible mixture of factor analysers enabling automatic inference of both cluster structure and latent dimensionality. The latter, recently published in [Bayesian Analysis](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Dynamic-Mixture-of-Finite-Mixtures-of-Factor-Analysers/10.1214/25-BA1543.full), leverages connections between infinite nonparametric priors and finite formulations to achieve fully automatic structure learning without relying on infinite models.
 
-Prior to that, I worked for several years at the Research Department of [Erste Group](https://www.erstegroup.com/en/home) as a Quantitative Analyst in charge of time series modeling and macroeconometic forecasting. My detailed CV can be found here: [CV](CV.pdf)
+Prior to academia, I worked for several years at the Research Department of [Erste Group](https://www.erstegroup.com/en/home) as a Quantitative Analyst, shere I was responsible for macroeconometic forecasting and time series modeling. 
+
+My detailed CV can be found here: [CV](CV.pdf)
 
 # Research Interests
 - Bayesian latent factor models
