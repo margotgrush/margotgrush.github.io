@@ -10,11 +10,14 @@ In 2023, I obtained my PhD at Vienna University of Economics and Business under 
 Prior to that, I worked for several years at the Research Department of [Erste Group](https://www.erstegroup.com/en/home) as a Quantitative Analyst in charge of time series modeling and macroeconometic forecasting. My detailed CV can be found here: [CV](CV.pdf)
 
 # Research Interests
-- Bayesian nonparametrics 
 - Bayesian latent factor models
-- Mixture models based clustering (Dirichlet process mixtures, Pitman-Yor process mixtures, mixture of finite mixtures models)
-- Time series models and forecasting
+- Structured sparsity and shrinkage priors
+- Biclustering and unsupervised learning
+- Mixture models and other clustering approaches
+- Bayesian nonparametrics 
+- Statistical methods for high-dimensional biological data
 - Variational inference
+- Time series models and forecasting
 
 # Upcoming Events
 - Invited talk at [CMStatistics 2026](https://www.cmstatistics.org/CFECMStatistics2026/) (Berlin, December 2026)
