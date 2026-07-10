@@ -15,11 +15,11 @@ My detailed CV can be found here: [CV](CV.pdf)
 
 # Research Interests
 - Bayesian latent variable and factor models
-- Structured sparsity and shrinkage priors
-- Biclustering and unsupervised learning
+- Bayesian representation learning
+- Biclustering and structured sparsity
 - Mixture models and clustering methods
 - Bayesian nonparametrics 
-- Statistical methods for high-dimensional biological data
+- Statistical methods for high-dimensional molecular data
 - Variational inference
 - Time series models and forecasting
 
