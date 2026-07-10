@@ -61,7 +61,7 @@ M. Grushanina (2025). Bayesian Analysis, 20(1), pp. 316-318.
 [discussion](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Sparse-Bayesian-Factor-Analysis-When-the-Number-of-Factors-Is/10.1214/24-BA1423.full)
 
 # Presentations & Posters
-- Poster at [CSML Workshop 2026](https://fsml-ucl.github.io/CSMLworkshop2026/) (London, April 2026). Multi-study factor regression biclustering.
+- Poster at [CSML Workshop 2026](https://fsml-ucl.github.io/CSMLworkshop2026/) (London, April 2026). Multi-study factor regression biclustering.[Poster](MSFRB_Poster.pdf)
 - Talk at [Research Computing Showcase Day 2026, Imperial College London](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/service-offering/research-engagement/rcs-events/research-computing-showcase-day-2026/) (London, April 2026). Multi-study factor regression biclustering. [Recording](https://www.youtube.com/watch?v=cAfzbZcxs7k)
 - Seminar at [EUSP](https://eusp.org/en) (virtual, January 2025). Dynamic mixture of finite mixtures of factor analysers.
 - Invited talk at [CFE-CMStatistics 2024](https://www.cmstatistics.org/CFECMStatistics2024/) (London, December 2024). Dynamic mixture of finite mixtures of factor analysers.
