@@ -3,13 +3,11 @@
 
 # About me
 
-I am a Research Associate for Bayesian Statistics and Causal Inference at the [School of Public Health, Imperial College London](https://www.imperial.ac.uk/school-public-health), working with [Verena Zuber](https://www.imperial.ac.uk/people/v.zuber) and [Leonardo Bottolo](https://www.medschl.cam.ac.uk/leonardo-bottolo). My research focuses on developing Bayesian latent variable models for high-dimensional molecular data, including gene expression and other omics data. I am particularly interested in latent factor models, biclustering, structured sparsity, clustering and scalable inference, with the aim of uncovering meaningful structure in complex biological datasets.
+I am a Research Associate for Bayesian Statistics and Causal Inference at the [School of Public Health, Imperial College London](https://www.imperial.ac.uk/school-public-health), working with [Verena Zuber](https://www.imperial.ac.uk/people/v.zuber) and [Leonardo Bottolo](https://www.medschl.cam.ac.uk/leonardo-bottolo). My research focuses on developing Bayesian latent variable models for high-dimensional molecular data, including gene expression and other omics data. I am particularly interested in latent factor models, biclustering, structured sparsity, clustering and scalable inference, with the aim of uncovering meaningful structure in complex biological datasets. My current work focuses on Bayesian representation learning for heterogeneous molecular data, including multi-study and single-cell settings, as well as scalable variational inference for Bayesian latent representation models. 
 
-My current work focuses on Bayesian representation learning for heterogeneous molecular data, including multi-study and single-cell settings. In particular, I develop methods for recovering shared and study-specific latent biological pathways in high-dimensional data, with an emphasis on scalable inference and interpretable latent representations.
+In 2023, I obtained my PhD at Vienna University of Economics and Business under the supervision of [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/en/statmath/faculty-staff/faculty/sfruehwirthschnatter) and [Alfred Stiassny](https://research.wu.ac.at/en/persons/alfred-stiassny-4). My dissertation, “Bayesian methods for unsupervised data analysis in application to data sets exhibiting non-Gaussianity,” focused on uncovering structure in complex data with minimal assumptions. It includes a review of infinite factorisation models, a latent factor model relaxing the Gaussian assumption, and flexible mixtures of factor analysers that enable automatic inference of both cluster structure and latent dimensionality. This work led to a recent publication in [Bayesian Analysis](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Dynamic-Mixture-of-Finite-Mixtures-of-Factor-Analysers/10.1214/25-BA1543.full).
 
-In 2023, I obtained my PhD at Vienna University of Economics and Business under the supervision of [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/en/statmath/faculty-staff/faculty/sfruehwirthschnatter) and [Alfred Stiassny](https://research.wu.ac.at/en/persons/alfred-stiassny-4). My dissertation, “Bayesian methods for unsupervised data analysis in application to data sets exhibiting non-Gaussianity,” focused on uncovering structure in complex data with minimal assumptions. It includes a review of infinite factorisation models, a latent factor model relaxing the Gaussian assumption, and flexible mixtures of factor analysers that enables automatic inference of both cluster structure and latent dimensionality. This work led to a recent publication in [Bayesian Analysis](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Dynamic-Mixture-of-Finite-Mixtures-of-Factor-Analysers/10.1214/25-BA1543.full).
-
-Prior to academia, I worked for several years at the Research Department of [Erste Group](https://www.erstegroup.com/en/home) as a Quantitative Analyst, where I was responsible for macroeconometric forecasting and time series modeling. 
+Prior to academia, I worked for several years at the Research Department of [Erste Group](https://www.erstegroup.com/en/home) as a Quantitative Analyst, where I was responsible for macroeconometric forecasting and time series modelling. 
 
 My detailed CV can be found here: [CV](CV.pdf)
 
@@ -22,6 +20,15 @@ My detailed CV can be found here: [CV](CV.pdf)
 - Statistical methods for high-dimensional molecular data
 - Variational inference
 - Time series models and forecasting
+
+# Current projects
+
+- **Multi-Study Factor Regression Biclustering**
+A Bayesian latent factor model for high-dimensional molecular data collected across multiple studies. The model combines multi-study factor analysis, factor regression and biclustering within a unified framework, allowing shared biological structure to be separated from study-specific variation while identifying subsets of molecular features that are active only in subsets of samples. Scalable variational inference algorithms and a post-processing identification procedure for recovered shared latent factors have been developed for this model.
+
+- **Bayesian biclustering for multi-subject single-cell transcriptomic count data**
+A Bayesian latent variable model for overdispersed single-cell RNA-seq count data with repeated measurements across individuals. The model introduces subject-specific activation of shared latent factors, allowing biological processes to be shared only across subsets of subjects while accounting for within-subject dependence and gene-specific overdispersion. Inference is based on variational Bayes using Pólya–Gamma and compound Poisson augmentation.
+
 
 # Upcoming Talks
 - Talk at [MASAMB 2026](https://www.mrc-bsu.cam.ac.uk/events/mathematical-and-statistical-aspects-molecular-biology-masamb-annual-meeting-2026) (Cambridge, September 2026)
