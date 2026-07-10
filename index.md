@@ -24,7 +24,7 @@ My detailed CV can be found here: [CV](CV.pdf)
 - Time series models and forecasting
 
 # Upcoming Talks
-- Talk at [MASAMB 2026]([https://www.cmstatistics.org/CFECMStatistics2026/](https://www.mrc-bsu.cam.ac.uk/events/mathematical-and-statistical-aspects-molecular-biology-masamb-annual-meeting-2026) (Cambridge, September 2026)
+- Talk at [MASAMB 2026](https://www.mrc-bsu.cam.ac.uk/events/mathematical-and-statistical-aspects-molecular-biology-masamb-annual-meeting-2026) (Cambridge, September 2026)
 - Invited talk at [CMStatistics 2026](https://www.cmstatistics.org/CFECMStatistics2026/) (Berlin, December 2026)
 
 # Publications
