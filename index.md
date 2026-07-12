@@ -23,7 +23,7 @@ My detailed CV can be found here: [CV](CV.pdf)
 
 # Current projects
 
-**Multi-Study factor regression biclustering**  
+**Multi-study factor regression biclustering**  
 A Bayesian latent factor model for high-dimensional molecular data collected across multiple studies. The model combines multi-study factor analysis, factor regression and biclustering within a unified framework, allowing shared biological structure to be separated from study-specific variation while identifying subsets of molecular features that are active only in subsets of samples. The accompanying inference framework is based on scalable variational approximations, together with post-processing procedures for assessing identification of the recovered shared latent factors.
 
 **Bayesian biclustering for multi-subject single-cell transcriptomic count data**  
