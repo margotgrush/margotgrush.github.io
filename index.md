@@ -38,15 +38,11 @@ A Bayesian latent variable model for overdispersed single-cell RNA-seq count dat
 ## Papers and Preprints
 - **Dynamic Mixture of Finite Mixtures of Factor Analysers**.
 M. Grushanina and S. Frühwirth-Schnatter (2025). Bayesian Analysis (advance publication).     
-[paper](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Dynamic-Mixture-of-Finite-Mixtures-of-Factor-Analysers/10.1214/25-BA1543.full)
+[paper](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Dynamic-Mixture-of-Finite-Mixtures-of-Factor-Analysers/10.1214/25-BA1543.full) [preprint](http://arxiv.org/abs/2307.07045)
 
 - **A Review of Bayesian Methods for Infinite Factorisations**.  
 M. Grushanina (2023).   
 [arXiv preprint](http://arxiv.org/abs/2309.12990)
-
-- **Dynamic Mixture of Finite Mixtures of Factor Analysers with Automatic Inference on the Number of Clusters and Factors**.
-M. Grushanina and S. Frühwirth-Schnatter (2023).
-[arXiv preprint](http://arxiv.org/abs/2307.07045)
 
 
 ## Conference Proceedings
