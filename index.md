@@ -31,7 +31,6 @@ A Bayesian latent variable model for overdispersed single-cell RNA-seq count dat
 
 
 # Upcoming Talks
-- Talk at [MASAMB 2026](https://www.mrc-bsu.cam.ac.uk/events/mathematical-and-statistical-aspects-molecular-biology-masamb-annual-meeting-2026) (Cambridge, September 2026)
 - Invited talk at [CMStatistics 2026](https://www.cmstatistics.org/CFECMStatistics2026/) (Berlin, December 2026)
 
 # Publications
