@@ -3,7 +3,7 @@
 
 # About me
 
-I am a Research Associate for Bayesian Statistics and Causal Inference at the [School of Public Health, Imperial College London](https://www.imperial.ac.uk/school-public-health), working with [Verena Zuber](https://www.imperial.ac.uk/people/v.zuber) and [Leonardo Bottolo](https://www.medschl.cam.ac.uk/leonardo-bottolo). My research focuses on developing Bayesian latent variable models for high-dimensional molecular data, including gene expression and other omics data. I am particularly interested in latent factor models, biclustering, structured sparsity, clustering and scalable inference, with the aim of identifying meaningful latent structure in complex biological datasets. My current work focuses on Bayesian biclustering methods for heterogeneous molecular data, including multi-study and single-cell settings, as well as scalable variational inference for Bayesian latent representation models. 
+I am a Research Associate for Bayesian Statistics and Causal Inference at the [Department of Epidemiology and Biostatistics, School of Public Health, Imperial College London](https://www.imperial.ac.uk/school-public-health), working with [Verena Zuber](https://www.imperial.ac.uk/people/v.zuber) and [Leonardo Bottolo](https://www.medschl.cam.ac.uk/leonardo-bottolo). My research focuses on developing Bayesian latent variable models for high-dimensional molecular data, including gene expression and other omics data. I am particularly interested in latent factor models, biclustering, structured sparsity, clustering and scalable inference, with the aim of identifying meaningful latent structure in complex biological datasets. My current work focuses on Bayesian biclustering methods for heterogeneous molecular data, including multi-study and single-cell settings, as well as scalable variational inference for Bayesian latent representation models. 
 
 In 2023, I obtained my PhD at Vienna University of Economics and Business under the supervision of [Sylvia Frühwirth-Schnatter](https://www.wu.ac.at/en/statmath/faculty-staff/faculty/sfruehwirthschnatter) and [Alfred Stiassny](https://research.wu.ac.at/en/persons/alfred-stiassny-4). My dissertation, “Bayesian methods for unsupervised data analysis in application to data sets exhibiting non-Gaussianity,” focused on uncovering structure in complex data with minimal assumptions. It includes a review of infinite factorisation models, a latent factor model relaxing the Gaussian assumption, and flexible mixtures of factor analysers that enable automatic inference of both cluster structure and latent dimensionality. This work led to a recent publication in [Bayesian Analysis](https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Dynamic-Mixture-of-Finite-Mixtures-of-Factor-Analysers/10.1214/25-BA1543.full).
 
@@ -72,6 +72,11 @@ M. Grushanina (2025). Bayesian Analysis, 20(1), pp. 316-318.
 - Seminar at [CEBA](https://ceba-lab.org/eng) (virtual, December 2021). Bayesian infinite factor models with non-Gaussian factors.
 - Contributed talk at [JSM 2021](https://ww2.amstat.org/meetings/jsm/2021/) (virtual, August 2021). Bayesian infinite factor models with non-Gaussian factors.
 - Contributed talk at [2021 ISBA World Meeting](https://events.stat.uconn.edu/ISBA2021/) (virtual, July 2021). Bayesian infinite factor models with non-Gaussian factors.
+
+# Teaching
+## Imperial College London
+- Autumn 2026: *Introduction to Statistical Thinking and Data Analysis*. Teaching Assistant, MSc Epidemiology and MSc Health Data Analytics and Machine Learning.
+- Spring 2026: *Bayesian Reasoning and Methods for Spatio-Temporal Data*. Lecturer, MSc Epidemiology.
 
 # Selective Work Experience
 - 2024-present: Research Associate for Bayesian Statistics and Causal Inference, [School of Public Health, Imperial College London](https://www.imperial.ac.uk/school-public-health) (London, UK)
