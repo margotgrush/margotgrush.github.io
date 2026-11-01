@@ -37,7 +37,7 @@ A Bayesian latent variable model for overdispersed single-cell RNA-seq count dat
 ## Papers and Preprints
 
 - **Weak Factor Recovery in Sparse Bayesian Factor Models under Exchangeable Shrinkage Process Prior**.
-  M. Grushanina (2026). Submitted.
+M. Grushanina (2026). Submitted.
   [arXiv preprint](http://arxiv.org/abs/2610.40491)
 
 - **Dynamic Mixture of Finite Mixtures of Factor Analysers**.
